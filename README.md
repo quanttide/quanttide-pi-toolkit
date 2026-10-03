@@ -15,7 +15,8 @@
 
 | 语言 | 包 | 版本 | 说明 |
 |:--|:--|:--|:--|
-| Rust | [`quanttide-pi`](packages/rust) | 0.1.0 | 骨架：领域常量与版本导出 |
+| Rust | [`quanttide-pi`](packages/rust) | 0.1.0 | 主程序包：pi 主程序数据约定，工作区入口 |
+| Rust | [`pi-hermes-memory`](packages/rust/crates/pi-hermes-memory) | 0.1.0 | 扩展包：`pi-hermes-memory` 会话与记忆只读适配 |
 
 ## 许可
 
