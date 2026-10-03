@@ -1,0 +1,14 @@
+[package]
+name = "quanttide-pi"
+version = "0.1.0"
+edition = "2021"
+description = "Pi 智能体适配领域 Rust 语言工具包"
+license = "Apache-2.0"
+repository = "https://github.com/quanttide/quanttide-pi-toolkit"
+readme = "README.md"
+keywords = ["quanttide", "pi-agent", "toolkit"]
+categories = ["development-tools"]
+
+[lib]
+name = "quanttide_pi"
+path = "src/lib.rs"
